@@ -16,7 +16,7 @@ import numpy as np  # import numpy를 np라는 이름으로 가져온다.
 
 # 함수 이름 : NummpyTestNone
 # 최초 작성일 : 2023년 2월 5일
-# 최초 작성자 :
+# 최초 작성자 : 김호성
 # 내용 : Nummpy를 사용하지 않고 기존 파이썬 문법으로 동작
 #       data 리스트의 값을 10 곱하기
 # 입력 : 없음
@@ -42,7 +42,7 @@ def NummpyTestNone():
 
 # 함수 이름 : NummpyTest
 # 최조 작성일 : 2023년 2월 5일
-# 최초 작성자 :
+# 최초 작성자 : 김호성
 # 내용 : Nummpy 테스트
 #       for문을 사용하지 않고 간단히 구현
 # 입력 : 없음
