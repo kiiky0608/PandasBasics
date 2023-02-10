@@ -1,5 +1,5 @@
 # 파일 명 : dataframe 생성.py
-# 설명 : dataframe 사용법  익히기 
+# 설명 : dataframe 사용법 익히기 
 #       - Dataframe 란? 2차원 표에서 컬럼 단위로 데이터를 표현
 #       - import 방식
 #           from pandas import DataFrame
